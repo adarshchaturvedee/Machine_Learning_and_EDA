@@ -1,0 +1,3 @@
+This folder holds the dataset and the Jupyter Interactive Python Notebook (.ipynb) file.
+day.csv (the comma separated values file, the dataset)
+BoomBikes_Case_Study_Linear_Regression.ipynb (the notebook with the work that I have done).
