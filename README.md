@@ -9,7 +9,7 @@ We also find out its quirks or exceptions (outliers, etc.) if any.
 At the end of the process, we can be fairly certain that we have a good understanding of the dataset.
 Just like we ask questions to get to know a person, we ask questions to get to know the dataset.
 
-Machine Learning is that subset of Artificial Intelligence that deals with training a model to predict things based on the dataset provided.
+Machine Learning is that subset of Artificial Intelligence which deals with training a model to predict things based on the dataset provided.
 Whatever data we may have, we split into training and testing sets and let our model learn on the training set and make predictions on the testing set.
 We may need to choose diferent appraoches to see which one fits our model the best.
 A good way to do that is to visualise the data. It provides a visual cue as to which ML model will work well with that sort of data.
